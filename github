@@ -1,0 +1,17 @@
+Using GitHub Website
+1Go to GitHub and log in.
+2Click on the "+" (top-right) → "New repository".
+3Enter a repository name and choose Public or Private.
+4Click "Create repository" 
+5 create a file in repository
+
+
+Using Git
+1Open Git Bash / Terminal
+Run these commands:
+>>git init
+>>git clone linkfromgithub // to use repository in local
+Do some modification in the file in local
+>> git add . 
+>>git commit –m “message”
+>>git push
